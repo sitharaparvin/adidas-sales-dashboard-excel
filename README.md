@@ -42,9 +42,11 @@ The dataset includes sales data such as:
 
 ## 💡 Key Insights
 
-* Certain regions contribute the majority of total sales.
-* Specific product categories generate higher revenue.
-* Sales through particular channels outperform others.
+* Sales Trend: Total sales peaked around June and dipped in September, showing seasonal variation in the yearly sales cycle.
+* Regional Performance: The West region leads in sales compared to other regions like Midwest, Northeast, South, and Southeast.
+* Product Category: Men's Athletic Footwear drives the highest sales among apparel and footwear categories.
+* Sales Method: 40% of sales are In-store, 33% Online, and 27% Outlet, indicating a strong physical retail presence.
+* Retailer Performance: West Gear tops sales among retailers like Walmart, Sports Direct, Kohl's, Foot Locker, and Amazon.
 
 ## 📂 Repository Structure
 
@@ -52,7 +54,7 @@ dataset/
 adidas_sales_data.xlsx
 
 dashboard/
-dashboard.png
+adidas_dashboard.png
 
 README.md
 

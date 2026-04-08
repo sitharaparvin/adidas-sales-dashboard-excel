@@ -26,6 +26,7 @@ The dataset includes sales data such as:
 * Retail regions
 * Sales methods
 * Revenue figures
+* Retailers
 
 ## 📈 Analysis Conducted
 
@@ -36,7 +37,6 @@ The dataset includes sales data such as:
 
 ## 📊 Dashboard Preview
 
-*(Add dashboard screenshot here)*
 
 ![Dashboard](adidas_dashboard.png)
 
